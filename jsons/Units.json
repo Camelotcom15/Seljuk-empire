@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Okçylary",
+    "unitType": "Archery",
+    "cost": 100,
+    "movement": 5,
+    "strength": 12,
+    "rangedStrength": 15,
+    "range": 2,
+    "requiredTech": "Horseback Riding"
+    "requiredResource": "Horses",
+    "uniqueTo": "Seljuk Empire",
+    "attackSound": ["arrow","horse"]
+  }
+]
