@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Seljuk Empire"
+    "leaderName": "Sultan Alparslan",
+    "adjective": ["Seljuks"],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "The seed which is not willing to let its shell rot, can not bear fruits"
+    "startIntroPart2": "What is in our hearts, we will reveal by our words and our deeds"
+    "declaringWar": "I will protect the oppressed even if he is my enemy. But I will not forgive the traitor even if he is my brother"
+    "attacked": "Do you think you can scare me? I have one life and that belongs to God"
+    "defeated": "I have no fear of death. If I surrender before I finish my last breath, then that breath is forbidden for me"
+    "introduction": "As long as we follow Allah’s path, nobody can bring us to our knees"
+    "neutralHello":  "If we are thankful for what we have, our hearts will find peace"
+    "hateHello": "My punishment is far heavier, I forgive you, and set you free"
+    "tradeRequest": "This gold was used to bribe the weak among us"
+    "innerColor": [0,0,0],
+    "outerColor": [0,205,255],
+    "uniqueName": "The great Seljuks",
+    "cities": ["Rayy","Isfahan","Bagdad","Hamadan","Marv"]
+  },
+]
