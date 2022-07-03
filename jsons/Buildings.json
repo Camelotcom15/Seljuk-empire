@@ -5,6 +5,6 @@
     "requiredTech": "Engineering"
     "uniqueTo": "Seljuk Empire"
     "cityStrength": 15,
-		"cityHealth": 90,
-  },
+    "cityHealth": 90,
+  }
 ]
