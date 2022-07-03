@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Jameh Mosque of Isfahan",
+    "isNationalWonder": true,
+    "requiredTech": "Engineering"
+    "uniqueTo": "Seljuk Empire"
+    "cityStrength": 15,
+		"cityHealth": 90,
+  },
+]
