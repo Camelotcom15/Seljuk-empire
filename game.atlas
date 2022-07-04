@@ -1,6 +1,6 @@
 
 game.png
-size: 0,0
+size: 1160,700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -13,15 +13,15 @@ BuildingIcons/Jameh Mosque of Isfahan
   index: -1
 NationIcons/Seljuk Empire
   rotate: false
-  xy: 201,0
+  xy: 200,0
   size: 380,270
   orig: 380,270
   offset: 0,0
   index: -1
 UnitIcons/Okçylary
   rotate: false
-  xy: 581,0
-  size: 560,702
-  orig: 560,702
+  xy: 580,0
+  size: 560,700
+  orig: 560,700
   offset: 0,0
   index: -1
