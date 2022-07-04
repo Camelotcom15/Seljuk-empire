@@ -1,7 +1,7 @@
 [
   {
     "name": "Okçylary",
-    "unitType": "Archery",
+    "unitType": "Mounted",
     "cost": 100,
     "movement": 5,
     "strength": 12,
@@ -11,6 +11,7 @@
     "requiredResource": "Horses",
     "replaces": "Horseman"
     "uniqueTo": "Seljuk Empire",
+    "uniques": ["Can move after attacking"],
     "attackSound": "arrow"
   }
 ]
