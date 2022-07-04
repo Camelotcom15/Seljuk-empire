@@ -1,7 +1,7 @@
 [
   {
     "name": "Okçylary",
-    "unitType": "Mounted",
+    "unitType": "Mounted Archery",
     "cost": 100,
     "movement": 5,
     "strength": 12,
@@ -9,7 +9,6 @@
     "range": 2,
     "requiredTech": "Horseback Riding"
     "requiredResource": "Horses",
-    "replaces": "Horseman"
     "uniqueTo": "Seljuk Empire",
     "uniques": ["Can move after attacking"],
     "attackSound": "arrow"
