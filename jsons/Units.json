@@ -10,6 +10,6 @@
     "requiredTech": "Horseback Riding"
     "requiredResource": "Horses",
     "uniqueTo": "Seljuk Empire",
-    "attackSound": ["arrow","horse"]
+    "attackSound": "arrow"
   }
 ]
