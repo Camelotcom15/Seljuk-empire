@@ -25,3 +25,16 @@ UnitIcons/Okçylary
   orig: 560,700
   offset: 0,0
   index: -1
+
+game2.png
+size: 32,28
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Okçylary
+  rotate: false
+  xy: 0,0
+  size: 32,28
+  orig: 32,28
+  offset: 0,0
+  index: -1
