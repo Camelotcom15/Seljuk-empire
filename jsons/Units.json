@@ -1,9 +1,9 @@
 [
   {
     "name": "Okçylary",
-    "unitType": "Mounted Ranged",
+    "unitType": "Mounted",
     "cost": 100,
-    "movement": 5,
+    "movement": 4,
     "strength": 12,
     "rangedStrength": 15,
     "range": 2,
