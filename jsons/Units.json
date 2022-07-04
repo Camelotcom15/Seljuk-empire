@@ -1,7 +1,7 @@
 [
   {
     "name": "Okçylary",
-    "unitType": "Mounted Archery",
+    "unitType": "Mounted Ranged",
     "cost": 100,
     "movement": 5,
     "strength": 12,
