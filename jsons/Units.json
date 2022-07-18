@@ -1,6 +1,6 @@
 [
   {
-    "name": "Okçylary",
+    "name": "Okcylary",
     "unitType": "Mounted",
     "cost": 100,
     "movement": 4,
@@ -11,6 +11,6 @@
     "requiredResource": "Horses",
     "uniqueTo": "Seljuk Empire",
     "uniques": ["Can move after attacking"],
-    "attackSound": "arrow"
+    "attackSound": "horse"
   }
 ]
